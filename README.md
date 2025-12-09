@@ -1,16 +1,17 @@
-## Hi there 👋
+🌟 Hi, I'm Gopika!
 
-<!--
-**Gopikakt21/Gopikakt21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Data Science student | Aspiring Data Analyst  
+Curious learner exploring Python, data analysis, and visualization.
 
-Here are some ideas to get you started:
+🧠 About Me:
+🎓 B.Tech in Data Science  
+📊 Interested in Data Analytics & Visualization  
+🌱 Currently learning Python, Matplotlib, & basic Pandas  
+💡 Love exploring simple projects and improving step by step  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Learning
+- Python basics  
+- SQL (queries, joins, filtering, aggregations)  
+- Data visualization (Matplotlib, Seaborn)  
+- Git & GitHub  
+- Problem solving  
